@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Linkdin ID 
+👉 https://www.linkedin.com/posts/tushantparjapat
+
+##Linkedin POst
+👉 https://www.linkedin.com/posts/tushantparjapat_just-built-a-movie-search-app-using-reactjs-activity-7346042489583169536-dl56?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOeSUcBU-IYr-myVNMcCIj4svK2Iue4cGg
 
 ## Available Scripts
 
